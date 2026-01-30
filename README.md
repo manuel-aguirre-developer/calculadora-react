@@ -20,5 +20,5 @@ npm run dev
 \`\`\`
 
 ## Próximas mejoras
-- [ ] Soporte para teclado
+- [✅] Soporte para teclado
 - [ ] Historial de operaciones
